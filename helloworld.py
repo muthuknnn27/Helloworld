@@ -2,3 +2,4 @@
 
 print('Hello, world!')
 print('Hello, guys!')
+print('Hello, people!')
